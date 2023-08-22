@@ -8,6 +8,6 @@ Nama: Dhimar Fadhilansyah Darojat
 
 NIM: 22/493570/SV/20710
 
-Kelas: PGPB-A
+Kelas: PGPB-a
 
 <img src="image/profile.png" width="70">
