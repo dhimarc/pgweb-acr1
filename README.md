@@ -11,3 +11,5 @@ NIM: 22/493570/SV/20710
 Kelas: PGPB-a
 
 <img src="image/profile.png" width="70">
+
+![Instagram](image/instagram.png) [@dhimar.fdh](https://www.instagram.com/dhimar.fdh)
