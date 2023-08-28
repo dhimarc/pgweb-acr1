@@ -8,9 +8,8 @@ Nama: Dhimar Fadhilansyah Darojat
 
 NIM: 22/493570/SV/20710
 
-Kelas: PGPB-a
+Kelas: PGPB-A
+
+<img src="image/instagram.png" width="20"> [@dhimar.fdh](https://www.instagram.com/dhimar.fdh)
 
 <img src="image/profile.png" width="70">
-
-
-![Instagram](image/instagram.png) [@dhimar.fdh](https://www.instagram.com/dhimar.fdh)
