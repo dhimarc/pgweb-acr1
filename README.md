@@ -14,4 +14,4 @@ Kelas: PGPB-A
 
 <img src="image/linkedin.png" width="20"> [Dhimar Fadhilansyah Darojat](https://www.linkedin.com/in/dhimarfadhilansyah/)
 
-<img src="image/photo.jpg" width="70">
+<img src="image/photo.jpg" width="120">
